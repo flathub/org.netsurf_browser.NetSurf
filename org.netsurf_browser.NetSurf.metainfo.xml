@@ -21,7 +21,7 @@
 
   <url type="bugtracker">https://bugs.netsurf-browser.org/</url>
   <url type="help">https://www.netsurf-browser.org/documentation/</url>
-  <url type="homepage">https://www.netsurf-browser.org/></url>
+  <url type="homepage">https://www.netsurf-browser.org/</url>
 
   <releases>
     <release version="3.10" date="2020-05-24">

@@ -3,8 +3,7 @@
 <component type="desktop-application">
   <id>org.netsurf_browser.NetSurf</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>GPL-2.0-only</project_license>
-  <project_license>MIT</project_license>
+  <project_license>GPL-2.0-only AND MIT</project_license>
   <name>NetSurf</name>
   <summary>small web browser with CSS support</summary>
   <developer_name>NetSurf Developers</developer_name>

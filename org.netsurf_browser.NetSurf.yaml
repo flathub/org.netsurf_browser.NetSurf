@@ -51,9 +51,10 @@ modules:
      - install -D org.netsurf_browser.NetSurf.metainfo.xml /app/share/metainfo/org.netsurf_browser.NetSurf.metainfo.xml
     sources:
       - type: git
-        url: git://git.netsurf-browser.org/netsurf-all.git
+        url: https://git.netsurf-browser.org/netsurf-all.git
         tag: release/3.10
         commit: 5815f4e272b73d9919b40b2a7ce88b5d7eb08dd4
+        disable-shallow-clone: true
       - type: file
         path: org.netsurf_browser.NetSurf.metainfo.xml
     post-install:

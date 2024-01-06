@@ -52,8 +52,8 @@ modules:
     sources:
       - type: git
         url: https://git.netsurf-browser.org/netsurf-all.git
-        tag: release/3.10
-        commit: 5815f4e272b73d9919b40b2a7ce88b5d7eb08dd4
+        tag: release/3.11
+        commit: 973ac82d7816f0b4621e6256defa998419dce1de
         disable-shallow-clone: true
       - type: file
         path: org.netsurf_browser.NetSurf.metainfo.xml

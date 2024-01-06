@@ -23,6 +23,11 @@
   <url type="homepage">https://www.netsurf-browser.org/</url>
 
   <releases>
+    <release version="3.11" date="2023-12-28">
+      <description>
+        <p>NetSurf 3.11 features improved page layout with CSS flex support. It also features many other optimisations and enhancements.</p>
+      </description>
+    </release>
     <release version="3.10" date="2020-05-24">
       <description>
         <ul>
